@@ -1,0 +1,13 @@
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.csprojAssemblyReference.cache
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.AssemblyInfoInputs.cache
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.AssemblyInfo.cs
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.csproj.CoreCompileInputs.cache
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.exe
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.deps.json
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.runtimeconfig.json
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.runtimeconfig.dev.json
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.dll
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\bin\Debug\netcoreapp3.1\Buchgeschäft.pdb
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.dll
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.pdb
+E:\andras_schule\SoftwareEntwicklung\3jahr\1912021_Buchgeschäft\Buchgeschäft\Buchgeschäft\obj\Debug\netcoreapp3.1\Buchgeschäft.genruntimeconfig.cache
